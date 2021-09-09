@@ -1,5 +1,6 @@
-# Socket Server Basico
+# Ticket serving system
 
-Un servidor de Websockets usando Node, Express y Socket.io
+Un sistema basico de cola donde se generan tickets 
+y se muestran en pantalla los proximos tickets en ser atendidos.
 
-Temas cubiertos en mi curso de Node de cero a experto
+creado con Nodejs y Sockets
